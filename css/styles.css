@@ -1,0 +1,13 @@
+.elephant {
+width: 400px
+
+}
+body {background-color: lightgray;
+    color: black
+}
+p {color:darkred}
+
+.send {background-color: black;
+border-radius: 5px;
+border-style: solid;
+color: white}
